@@ -67,8 +67,8 @@ pr前请同步一下fork，timeline更新频率较高，不然会造成大量冲
  市井百态  | 选录民间自媒体代表性叙述（如up主、大V）、个体生命史，社会流言（如双黄连事件、武汉病毒所所长事件）。 | / | /
  医学问题及学术动态| 将1月29日以前医学论文成果汇入，转述其提供了哪些信息；此外实时跟进医学界动态，文献可参考[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)。 | / | /
 
-> “记录历史，守护记忆。”
-> I've constructed a timeline, minute by minute, second by second in some places. Every decision, every button push, every turn of a switch. (Chernobyl, 2019)
+> “记录历史，守护记忆。”<br>
+> I've constructed a timeline, minute by minute, second by second in some places. Every decision, every button push, every turn of a switch. (Chernobyl, 2019)<br>
 
 感兴趣的人欢迎联系，也欢迎直接指正，有优化的建议也欢迎提出！
 --------
@@ -141,12 +141,13 @@ pr前请同步一下fork，timeline更新频率较高，不然会造成大量冲
 * [新型冠状病毒肺炎疫情|实时更新|导航站点](http://jiayou.beiyouren.cn/jiayou/)：据说是北邮的学生做的很全面！<br>
 
 ### 三、社会舆情
-#### （一）普通个体（封城日记等）【注：2月6日-20日，豆瓣曾暂停日记功能】
+#### （一）普通个体（封城日记等）【注：2月6日-20日，豆瓣曾暂停日记功能。】
 * [豆瓣豆列-个体叙述](https://www.douban.com/doulist/122759092/)<br>
 * [豆瓣豆列-瘟疫时期的社会](https://www.douban.com/doulist/122857988/)<br>
 * [豆瓣豆列-人走了没住上院](https://www.douban.com/doulist/122779098/)：那些不在官方统计数据里的CoV相关死亡案例<br>
 * [新冠肺炎：親歷者見聞選編（持續更新）](https://shimo.im/docs/5dbf36f637674529/read)<br>
-* GitHub项目[2020nCov_individual_archives](https://github.com/jiayiliujiayi/2020nCov_individual_archives)：备份普通人在疫情期间的记录<br>
+* Github项目[2020nCov_individual_archives](https://github.com/jiayiliujiayi/2020nCov_individual_archives)：备份普通人在疫情期间的记录<br>
+* Github项目[疫情之下的劳动者--中文媒体报道收集](https://github.com/workshopwangdirector/Labor-in-2019-nCov)<br>
 
 #### （二）自媒体（VLOG、疫情分析）
 * [知识分子 | 吃一堑能长一智吗？国际著名公卫专家评武汉疫情](https://mp.weixin.qq.com/s/X1s65Ldo7TxUmsQZHB_Zmg)
