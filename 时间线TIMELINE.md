@@ -277,8 +277,10 @@
 据王广发事后回忆，“41例确诊病例，这当中有两起聚集性病例。我们请教过CDC的专家，根据两起聚集性病例，没法得出‘人传人’的结论，这需要流行病学专家来回答”。见2月2日[冰点周刊 | 卫健委专家组成员王广发出院了，回答了我们8个问题](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)<br>
 * 同时，武汉市卫健委发布[专家解读不明原因的病毒性肺炎最新通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109036)，表示“截止目前所有密切接触者包括医务人员都未发现相关病例”。<br>
 * 上午，[中国人民政治协商会议湖北省第十二届委员会第三次会议](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202001/t20200112_1910812.shtml)在武汉洪山礼堂隆重开幕。中共湖北省委书记蒋超良、省长王晓东、武汉市委书记马国强到会祝贺。<br>
-* 当日早间，上海公共卫生临床中心张永振教授团队成员悉尼大学爱德华•霍姆斯（Edward Holmes）教授代表课题组在virological.org网站发布了获得的新型冠状病毒全基因组序列，是最早向世界共享相关数据的科研工作者【参见12月20日及1月5日条目】。然而在1月12日之后，不知道是什么原因，上海公共卫生临床中心P3实验室重新申请活病毒的培养等相关的研究，就无法得到批准，目前只能做一些临床检测。见1月11日[Novel 2019 coronavirus genome](http://virological.org/t/novel-2019-coronavirus-genome/319)，2月25[财经杂志 | 研究表明：新冠病毒可能于去年11月出现，近期变异不大](https://mp.weixin.qq.com/s/0QwyA3m4U-kahPQW4UMoSw)及2月26日[财新网 | 新冠病毒基因测序溯源：警报是何时拉响的](https://github.com/Pratitya/wuhan2020-timeline/issues/132)。<br>
-* 当日晚间，国家卫健委宣布将与世界卫生组织分享武汉不明原因的病毒性肺炎病例中检测到的新型冠状病毒基因序列信息，并指定相关机构（中国疾控中心、中国医学科学院以及中科院武汉病毒所）在全球流感共享数据库（GISAID，Global Initiative on Sharing All Influenza Data）共享5个来自不同患者的病毒基因组序列。世界卫生组织于当地时间1月12日宣布确认收到中国所分享的数据，并将病毒名称暂命名为2019-nCov。见国家卫健委[公告](http://www.nhc.gov.cn/gjhzs/s7952/202001/422796acaea746549f93e617ccc348a1.shtml)，中国科学院武汉病毒研究所[武汉病毒所全力开展新型冠状病毒肺炎科研攻关](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)，2月26日[财新网 | 新冠病毒基因测序溯源：警报是何时拉响的](https://github.com/Pratitya/wuhan2020-timeline/issues/132)以及世界卫生组织[twitter公告](https://twitter.com/WHO/status/1216108498188230657)。<br>
+
+【中国】<br>
+* 早间，上海公共卫生临床中心张永振教授团队成员悉尼大学爱德华•霍姆斯（Edward Holmes）教授代表课题组在virological.org网站发布了获得的新型冠状病毒全基因组序列，是最早向世界共享相关数据的科研工作者【参见12月20日及1月5日条目】。然而在1月12日之后，不知道是什么原因，上海公共卫生临床中心的P3实验室就被上海市卫健委下令关闭整改。该中心人员至少提交了四次申请要求重新开放实验室，至今仍未得到任何回应，重新申请活病毒的培养等相关的研究也未得到批准，目前只能做一些临床检测。见1月11日[Novel 2019 coronavirus genome](http://virological.org/t/novel-2019-coronavirus-genome/319)，2月25[财经杂志 | 研究表明：新冠病毒可能于去年11月出现，近期变异不大](https://mp.weixin.qq.com/s/0QwyA3m4U-kahPQW4UMoSw)，2月26日[财新网 | 新冠病毒基因测序溯源：警报是何时拉响的](https://github.com/Pratitya/wuhan2020-timeline/issues/132)，2月28日[南华早报 | 最先与世界分享冠状病毒基因序列的中国实验室被下令关闭“整改”，对其新型冠状病毒肺炎研究造成阻碍](https://www.scmp.com/news/china/society/article/3052966/chinese-laboratory-first-shared-coronavirus-genome-world-ordered)。<br>
+* 晚间，国家卫健委宣布将与世界卫生组织分享武汉不明原因的病毒性肺炎病例中检测到的新型冠状病毒基因序列信息，并指定相关机构（中国疾控中心、中国医学科学院以及中科院武汉病毒所）在全球流感共享数据库（GISAID，Global Initiative on Sharing All Influenza Data）共享不同患者的病毒基因组序列。世界卫生组织于当地时间1月12日宣布确认收到中国所分享的数据，并将病毒名称暂命名为2019-nCov。见国家卫健委[公告](http://www.nhc.gov.cn/gjhzs/s7952/202001/422796acaea746549f93e617ccc348a1.shtml)，中国科学院武汉病毒研究所[武汉病毒所全力开展新型冠状病毒肺炎科研攻关](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)，2月26日[财新网 | 新冠病毒基因测序溯源：警报是何时拉响的](https://github.com/Pratitya/wuhan2020-timeline/issues/132)以及世界卫生组织[twitter公告](https://twitter.com/WHO/status/1216108498188230657)。<br>
 
 【国际】<br>
 * 世界卫生组织[发推](https://twitter.com/WHO/status/1215981049869668353)，为医护人员提供跟踪患者、实验室化验、疾病控制、信息公开等方面提出指导办法。<br>
@@ -394,7 +396,6 @@
 * 19时，《新闻联播》报道新华社电，国务院下达[《习近平对新型冠状病毒感染的肺炎疫情作出重要指示》](http://www.gov.cn/xinwen/2020-01/20/content_5471057.htm)。<br>
 * 晚间，[央视新闻《新闻1+1》](https://github.com/Pratitya/wuhan2020-timeline/issues/3#issue-556734943)白岩松现场连线采访钟南山院士，确定新型冠状病毒可以人传人，且已有医务人员感染。<br>
 * 同日，王广发新冠病毒核酸检测结果是阳性，肺部CT显示是典型的肺炎表现，在北京确诊新冠肺炎。见2月2日[冰点周刊 | 卫健委专家组成员王广发出院了，回答了我们8个问题](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)<br>
-* 新冠肺炎被列入《中华人民共和国传染病防治法》。<br>
 * [稳健医疗](http://www.winnermedical.cn/cn/newsdetail/106/666.html)决定，动员全资子公司、车间全员春节不休假，全力生产防护产品：防护服、手术衣、酒精片等。<br>
 
 【国际】<br>
@@ -1008,7 +1009,7 @@
 * [韩联社](https://cn.yna.co.kr/view/ACK20200224001100881)：韩赴以色列朝拜圣地团39人中28人确诊感染新冠病毒。<br>
 * [美联社](https://apnews.com/32540d09ec101aac057660ef1b0aa970)援引伊朗半官方劳工新闻通讯社（ILNA）周一的消息称，本月以来伊朗什叶派圣城库姆市已有50人死于新冠病毒感染的肺炎。这一数字要比此前伊朗官方公布的数据高出不少。据伊朗国家电视台报道，截至目前，伊朗累计确诊47例病例，死亡达12例。<br>
 * 美联社：国际奥委会高级成员迪克·庞德表示，若疫情5月下旬得不到控制，东京奥运会可能会取消，不会推迟或换城市举办。<br>
-* 《柳叶刀》在线发表一篇通讯文章（correspondence）：[Chinese medical staff request international medical assistance in fighting against COVID-19](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30065-6/fulltext)。在这篇文章中，身处抗击疫情一线的中国医务人员向全球发出医疗支援请求。<br>
+* 《柳叶刀》在线发表一篇通讯文章（correspondence）：[Chinese medical staff request international medical assistance in fighting against COVID-19](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30065-6/fulltext)。在这篇文章中，身处抗击疫情一线的中国医务人员向全球发出医疗支援请求。随后，《柳叶刀》主编应两位作者要求[撤下该稿](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30076-0/fulltext)，称文章并非来自第一手资料；[“丁香园”公众号的翻译和财新网的报道](https://github.com/Pratitya/wuhan2020-timeline/issues/135)都被撤下。<br>
 
 ## 2020年2月25日
 【武汉-湖北】<br>
@@ -1039,6 +1040,7 @@
 * [海南省](http://www.hainan.gov.cn/hainan/0101/202002/c3c6173c2224466ca42ff7bf49f9ec9e.shtml)新冠肺炎疫情防控工作第二十一场新闻发布会通报，自2020年2月26日17时起，将海南省新冠肺炎疫情防控应急响应级别由省突发公共卫生事件一级响应调整为三级响应。<br>
 * [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_6150880)：大连、青岛、烟台、威海、延边等地出台措施防控境外疫情输入。<br>
 * [福建卫健委](http://wjw.fujian.gov.cn/xxgk/gzdt/wsjsyw/202002/t20200226_5204132.htm)：26日24时起，福建省新冠肺炎疫情中风险区调整为执行新冠肺炎疫情防控省级二级响应，低风险区调整为执行省级三级响应。<br>
+* [浙江大学](https://mp.weixin.qq.com/s/1K0rtFdoG1yeD2sl4iqlWw)医学院附属第一院副院长、眼科学科带头人沈晔教授团队，在《医学病毒学杂志》（Journal of Medical Virology）在线发表了一项研究工作，揭示在研究的新冠肺炎患者样本中，存在一名结膜炎患者的眼泪和结膜分泌物样本，在核酸检测中出现病毒阳性结果。<br>
 
 【国际】<br>
 * [NBC](https://www.nbcbayarea.com/news/local/san-francisco/sf-mayor-london-breed-declared-local-emergency-amid-coronavirus-outbreak/2241796/)：美国加州旧金山市长周二宣布当地进入紧急状态，尽管该市居民中尚未有确诊病例。<br>
@@ -1072,6 +1074,8 @@
 【中国】<br>
 * [陕西卫健委](http://sxwjw.shaanxi.gov.cn/art/2020/2/27/art_9_68401.html)：自2020年2月28日0时起，将省新冠肺炎疫情防控应急响应级别由一级应急响应调整为省级三级应急响应。<br>
 * [香港渔护署](https://www.info.gov.hk/gia/general/202002/28/P2020022800012.htm)表示一只居于确诊者家中的狗对病毒测试呈弱阳性反应，该狗并无任何相关病征。目前未有数据证明宠物会感染而发病或传播该病毒，但署方强烈建议确诊者的宠物接受检疫。<br>
+* [山东省人民政府](http://www.shandong.gov.cn/art/2020/2/28/art_101628_349676.html)免去王文杰山东省监狱管理局副局长职务。<br>
+* [北京](https://weibo.com/1893892941/IwlFPxj5j)发布《关于进一步严格疫情防控有关要求的通告》，其中提出：突出重点部位疫情防控。密切关注公园、景区周边人员聚集情况，有针对性地出台限流管控措施。加强重点交通站点防控力量，建立联动机制，避免轨道站外、公交站台周边排队人员密集。严格集体宿舍监督管理，原则上不安排在地下空间居住。<br>
 
 【国际】<br>
 * [Reuters](https://www.reuters.com/article/us-china-health-iran-ban/iran-bans-chinese-citizens-from-entering-the-country-irna-idUSKCN20L1V7)：伊朗国家通讯社报道称，为了阻止新冠肺炎的扩散，伊朗已经禁止中国公民入境。<br>
@@ -1079,6 +1083,15 @@
 * [NBC](https://www.nbcnews.com/news/us-news/coronavirus-cdc-didn-t-immediately-test-covid-19-case-n1143996)：美国加州萨克拉曼多卫生系统负责人说，美国疾控中心（CDC）未能及时对疑似首例社区传播的感染者进行检测。加州大学戴维斯分校David Lubarsky博士向媒体透露，患者于2月19日被转移到戴维斯分校医学中心后，要求CDC进行测试，但被联邦机构拒绝了。<br>
 * [CNBC](https://www.cnbc.com/2020/02/27/facebook-cancels-its-annual-developer-conference-amid-coronavirus-outbreak.html)：由于担心新冠病毒爆发，Facebook周四宣布决定取消年度开发者大会（F8）。会议原定于5月5日至6日在加州圣何塞的McEnery会议中心举行。公司发言人告诉媒体，去年有5000人参加了此次活动。<br>
 * [韩联社](https://cn.yna.co.kr/view/ACK20200228001000881)：韩国新增256例新冠确诊病例，累计2022例。<br>
+* [CNBC](https://www.cnbc.com/2020/02/28/google-employee-diagnosed-with-coronavirus.html)：谷歌公司证实，一名谷歌员工在其位于瑞士苏黎世 的办公室冠状病毒检测呈阳性。<br>
+* [韩联社](https://cn.yna.co.kr/view/ACK20200225004200881?section=nk/index)：朝鲜禁止聚会聚餐严防新冠疫情；[韩联社](https://cn.yna.co.kr/view/ACK20200227000800881?section=nk/index)：朝鲜各级各类学校推迟开学严防疫情扩散。<br>
 
 ## 2020年2月29日
 【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
+* 当地时间28日，世卫组织总干事谭德塞在日内瓦宣布，将新冠肺炎全球风险级别提高为“非常高”。此前，新冠肺炎全球风险级别为“高风险”。谭德塞表示，鉴于目前新冠肺炎在全球多个国家蔓延，中国境外已有4351例病例，且有越来越多国家出现疫情，故提高新冠肺炎全球风险级别。<br>
+* [BBC](https://twitter.com/BBCBreaking/status/1233443539914252289?s=20)：据伊朗卫生系统内部消息，伊朗新冠病亡人数可能已经至少210。截至目前，伊朗官方媒体报道中，确诊人数388，病亡人数34。<br>
+* CNN：来自美国加州的国会众议员约翰·加拉曼迪告诉记者，此前在住院几天后被检测出新型冠状病毒阳性的加州病人病情严重，需要插管治疗。美国疾控中心主任雷德菲尔德(Robert Redfield)说，在疫情暴发的早些时候，疾控中心的指导意见是，患者必须有去过中国的旅行史，或者在接受检测前曾与去过中国的人有过密切接触。但雷德菲尔德说，检验标准现在已经改变了。<br>
+
+
