@@ -869,6 +869,7 @@
 * [北青深一度 | “着急”的病理专家刘良：死亡病例过千，尚无一例病理解剖，早一点做可以多救几个人 | 深度对话](https://mp.weixin.qq.com/s/Cc5TbHEIwtNbiPo519OR6w)<br>
 
 【中国】<br>
+* 下午，国新办就疫情防控最新进展特别是关爱医务人员举措举行发布会，国家卫健委副主任曾益新在发布会上表示，按照疫情发布的相关规定，仅对外公布新冠肺炎疑似病例和确诊病例。无症状感染者不属于病例，不需对外公布。如果无症状感染者在集中隔离期间出现了症状，这时候我们可将其作为确诊病例报告，并对外公布。无症状感染者是指无临床症状，但呼吸道等标本新型冠状病毒病原学检测阳性者。详见2月26日[财新网 · 解读|争议新冠无症状感染者：为何不并入确诊统计](http://china.caixin.com/2020-02-26/101520417.html)<br>
 * 晚间，[国家网信办](https://mp.weixin.qq.com/s/qdcz3SRc8OCkPnM71DscWw)指导北京市网信办约谈凤凰网负责人，凤凰网、凤凰新闻客户端违规严重的部分频道暂停更新。<br>
 
 【国际】<br>
@@ -1550,9 +1551,13 @@
 * [硚口发布](https://weibo.com/2648030085/Izx11oPo0)：昨日下午，部分微信群、朋友圈内有网友转发韩家墩街综合社区关于“昨晚丽水康城小区又有新增病例”的“重要通知”。经全面调查，韩家墩街综合社区丽水康城小区居民张某某，男，62岁。3月17日，因淋巴结肿块（大脖子病）去医院就诊，体温正常，无发热咳嗽等症状。新冠筛查第一次核酸结果为阴性。3月19日第二次核酸检测结果为阳性，并收治入院。根据《国家卫健委办公厅关于印发新型冠状病毒肺炎防控方案（第六版）的通知》，张某某系无症状感染者，不是确诊病例。3月20日再次采集患者痰拭子、咽拭子，核酸检测均为阴性。因3月19日晚社区了解到张某某第二次核酸检测结果为阳性，误认为其是确诊患者，为提醒社区居民做好居家防控、提高警惕，在小区内发出了通知。3月20日下午，社区已向小区居民解释其不是确诊患者。<br>
 * [知音汉阳](https://weibo.com/2710754267/Izx07iC2G)：昨日网传玫瑰西园社区告示：116号单元有两例新冠确诊病人，对此单元进行单对封闭，即日起该本栋居民不进不出。现将事件情况说明如下：3月20日，玫瑰西园社区居民邹某因所在116号楼栋施行封控管理，无法应企业要求复工返岗，遂通过楼栋微信群要求社区提供不能出门证明。社区工作人员于是为其出具证明（网传告示），并通过楼栋微信群发给邹某，后在网络传播。<br>
 * [硚口发布](https://weibo.com/2648030085/IzwuqgP8H)：关于网传“同济医院护士被租住地的邻居驱赶”一事，引发网友强烈关注。经现场调查核实，同济医院一护士结束该院中法新城院区重症监护室支援工作，隔离期满后，返回本部院区工作，借住同事租住的硚北社区住房。3月17日中午，硚北社区部分居民出于对小区和自身安全的警惕，联系社区网格员和志愿者上门询问其身份、健康等状况。期间，有居民对该护士不是本辖区居民，也不是小区租户却搬进小区表示不理解，拨打110电话报警。警务站出警后，妥善进行了处置，劝回了居民。该护士在同事陪同下另行居住。事后，我区迅速指出了社区的不妥行为，并安排街道、社区主动与该护士沟通解释，获得其本人谅解。<br>
+* 来自武汉的一位一线医生向[健康时报](https://weibo.com/1411163204/IzuzCuE6K)记者反映，“我在门诊遇到了一家三口新冠肺炎治愈患者全部‘复阳’的病例，且这一家三口中的一位70岁的老人病情较之前反而更加严重了。”复阳也即治愈的患者，出现了病情反复的情况，专家解读：可能存在“假治愈”情况。<br>
+* [财新网 · 特稿|核酸阴性抗体阳性 确诊名单外的武汉医护人员](https://m.caixin.com/m/2020-03-21/101532088.html?cx_referer=http://www.caixin.com/2020-03-21/101532088.html)<br>
 
 【中国】<br>
 * [羊城晚报](https://weibo.com/1497087080/IzxyMmmkm)：自3月21日零时起，对所有从境外（不含港澳台）经广东口岸入境的人员，以及经港澳台地区和省外口岸入境来粤且来粤前14天内有国外旅居史的人员，其目的地为广东的，无论外国公民还是中国公民，均一视同仁，一律实施14天居家或集中隔离医学观察。集中隔离医学观察的食宿费用由个人自理。<br>
+* [江干发布]()：浙江杭州江干卫监执法人员在检查过程中，发现两家未经审批擅自开展新冠病毒检测的医疗机构（慈铭体检管理集团杭州有限公司凯旋路门诊部和杭州伊琳健康咨询有限公司城星路医疗美容诊所），利用医疗机构的“优势”，自行对职工、患者开展新型冠状病毒检测。此行为已构成违法，将受到法律制裁。<br>
+* [北京日报](https://weibo.com/1893892941/IzDTckIkr):3月20日北京疫情防控领导小组医疗保障组印发了《加强疫情防控期间医疗服务工作的通知》明确，从3月21日零时起，各区级定点医疗机构暂停新冠肺炎病例收治任务，新发疑似和确诊病例全部由市级定点医院收治。不再承担收治任务的医疗机构，由各区卫生健康委组织疾控和院感专业人员，严格开展终末消毒，经专家评估后，于3月23日零时起，全面恢复日常医疗服务。<br>
 
 【国际】<br>
 * [NPR](https://www.npr.org/sections/coronavirus-live-updates/2020/03/20/818969256/trump-administration-says-u-s-border-with-mexico-to-close-to-nonessential-travel)：当地时间3月20日，美国总统特朗普宣布为应对疫情，美墨边境将部分关闭，包括生活和防疫必需品运输在内的“必要旅行”将被豁免。此前，美加边境已采取类似管理措施。<br>
@@ -1562,3 +1567,37 @@
 * 美国[康涅狄格州](https://www.courant.com/coronavirus/hc-news-coronavirus-update-0320-20200320-m5oro7ss3vb3nlqsormcmt6nty-story.html)州长Lamont宣布，该州非必要商户将停业，居民如非必要应避免外出。超市、药店等必要商户将继续开放。<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-madagascar-idUSKBN2172TP)： 西印度洋岛国马达加斯加首次报告确诊3例新冠肺炎病例。<br>
 * [BBC](https://www.bbc.com/news/uk-51981653)：英国首相鲍里斯·约翰逊（Boris Johnson）宣布，为了应对新冠肺炎，英国全国的咖啡馆、酒吧和餐馆将从周五晚起关闭，剧场、体育馆等也将尽快关闭。<br>
+* [Reuter](https://www.reuters.com/article/us-health-coronavirus-japan-schools/japan-to-reopen-schools-closed-for-coronavirus-after-spring-recess-idUSKBN2170YE)：当地时间3月20日，日本文部科学大臣萩生田光一在表示，春假结束后，日本政府不会继续要求关闭学校。此前，为应对疫情，日本绝大多数学校处于关闭状态。日本政府计划于下周公布4月开学的具体时间表和政策指导意见。初期可能仅感染人数较少地区的学校会恢复课堂教学。<br>
+* [jornaleconomico.sapo](https://jornaleconomico.sapo.pt/noticias/covid-19-timor-leste-regista-primeiro-caso-positivo-do-novo-coronavirus-563730)：东帝汶确诊首例新冠肺炎病例。<br>
+
+## 2020年3月22日
+【武汉-湖北】<br>
+* [武汉发布](https://m.weibo.cn/2759348142/4485089519617954)凌晨回应《我最难忘的一天》披露有新增确诊病例的情况不实，武汉新增确诊病例为零客观真实。此前网络上流传一篇名为 《我最难忘的一天》 的文章，自称是“湖北一位主流媒体记者把自己3月19日从凌晨到晚上、亲身经历的3位患者入院救治的经过，写成了真实的文字，发布在朋友群。”<br>
+
+【中国】<br>
+* [中国民航局](http://www.caac.gov.cn/XXGK/XXGK/TZTG/202003/t20200322_201625.html)：自3月23日零时（北京时间）开始，所有目的地为北京的国际始发客运航班均须从天津、石家庄、太原、呼和浩特、上海浦东、济南、青岛、南京、沈阳、大连、郑州、西安12个指定的第一入境点入境。乘坐上述国际航班的旅客在第一入境点实施检疫并办理入境手续，行李清关。检疫符合登机条件的旅客可搭乘原航班入京。腹舱所带货物在北京清关。<br>
+* [台湾卫生福利部](https://www.cdc.gov.tw/Bulletin/Detail/LbQTPXUJx1SBy_DDRSnTMw?typeid=9)：台湾3月24日至4月7日，全面禁止旅客登机来台转机。<br>
+
+【国际】<br>
+* [CNN](https://www.cnn.com/world/live-news/coronavirus-outbreak-03-21-20-intl-hnk/h_8b881152ae9cea310a8a2d294deb7e49)：佛蒙特州州长Scott宣布，从当地时间3月23日晚上八点开始，为应对疫情，该州所有提供密切接触服务的商户——如美甲店、理发店、纹身店、健身房等商户——必须停止营业。该禁令将持续至至少4月15日。<br>
+* [CNN](https://www.cnn.com/world/live-news/coronavirus-outbreak-03-21-20-intl-hnk/h_5749efe403dae8d2b7a9916b34db3e6e)：新泽西州州长Murphy发布“居家令”，要求所有居民如非必要应该避免外出，同时所有非必要商户将从当地时间周六晚九点开始停止营业。不在禁令范围内的必要商户包括银行、超市、药店、酒精饮料专营店、干洗店、快递、加油站、汽车维修店等商户。<br>
+* [格鲁吉亚](https://agenda.ge/en/news/2020/879)宣布全国进入紧急状态。此前，格鲁吉亚已禁止外国公民入境并完全停飞了全部国际航班。格鲁吉亚目前累计确诊49例。<br>
+* [CNN](https://www.cnn.com/world/live-news/coronavirus-outbreak-03-21-20-intl-hnk/h_78c431662464112a27434663a0860cdc)：因防疫物资和试剂盒供应不足，美国纽约市卫生部门官员要求医疗机构仅测试症状严重到需要住院治疗的病人。针对其他人的测试将被停止进行。目前纽约市确诊人数已经超过8000人。<br>
+* [CNN](https://www.cnn.com/world/live-news/coronavirus-outbreak-03-21-20-intl-hnk/h_78c431662464112a27434663a0860cdc)：美国洛杉矶郡卫生部门官员宣布，该郡将建议医生放弃对病人进行病毒检测，除非医生有理由相信检测结果会改变对病人的治疗策略。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-eritrea-idUSKBN2180XU)：厄立特里亚确诊首例新冠肺炎病例为挪威输入。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil2z1qxgUObmAuJ78tx9s200322&fromapp=cctvnews&version=804&version=804&allow_comment=1)：东非国家乌干达确诊首例新冠肺炎病例。<br>
+* [联合早报](https://www.zaobao.com/realtime/singapore/story20200322-1039165)：短期访客明晚午夜（3月23日24点）起不得入境新加坡或过境。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-cuba/cuban-doctors-head-to-italy-battle-coronavirus-idUSKBN219051)：古巴向意大利派出一组医疗队，是古巴新冠以来的派出的第6个支援小组。<br>
+
+## 2020年3月23日
+【武汉-湖北】<br>
+
+【中国】<br>
+【国际】<br>
+* [Reuters](https://www.reuters.com/article/health-coronavirus-mozambique-idUSL8N2BF0PT)：南非国家莫桑比克确诊首例新冠肺炎病例，该患者最近从英国返回。<br>
+* 美国肯塔基州共和党参议员[Rand Paul](https://twitter.com/RandPaul/status/1241780756617273345?s=19)确诊COVID-19。他是美国首例确诊COVID-19的参议员。<br>
+* 为应对纽约当前疫情，美国陆军工程兵团在经过几天的调研后确定了四处可能的临时医院建设地点。这四个地点分别为Javits会展中心、Westchester会展中心、Stony Brook州立大学和Old Wesrbury州立大学。在得到[纽约州](https://www.governor.ny.gov/news/governor-cuomo-announces-four-sites-identified-army-corps-engineers-initial-list-temporary)州长的最终批复后，美国陆军将立即开始临时医院的建设工作。<br>
+* 美国[路易斯安那州](https://gov.louisiana.gov/index.cfm/newsroom/detail/2427)、[俄亥俄州](https://twitter.com/GovMikeDeWine/status/1241814741313556486?s=20)、[特拉华州](https://apnews.com/0692f5c364f07045809a734775e1b260)相继发布所有居民如无必要禁止外出，非必要商户将关门停业。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-syria-idUSKBN21912A)：叙利亚确诊首例新冠肺炎病例为英国输入。<br>
+* [loopjamaica](http://www.loopjamaica.com/content/watch-dominica-records-first-case-coronavirus-3)：东加勒比海岛国多米尼克确诊首例新冠肺炎病例该病例为英国输入。<br>
+* [loopnewsbarbados](http://www.loopnewsbarbados.com/content/grenada-records-first-covid-19-case-4)：东加勒比海岛国格林纳达确诊首例新冠肺炎病例为英国输入。<br>
