@@ -1531,11 +1531,13 @@
 ## 2020年3月20日
 【武汉-湖北】<br>
 * 上午，[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_6603012)从武汉市中心医院多名医护人员处获悉，武汉市中心医院伦理委员会成员刘励因感染新冠肺炎，不幸于本日上午离世。<br>
+* 湖北省新冠肺炎疫情防控指挥部下发《关于国家及各省援鄂疾控工作队暂缓离鄂的通知》（下称《通知》）。《通知》称，“为进一步做好我省新冠肺炎疫情防控工作，结合我省疫情实际”，请各地新冠肺炎疫情防控指挥部协调国家及各省援鄂疾控工作队伍暂缓离鄂，按原计划承担相关工作业务。离鄂时间由中央指导组防控组确定后另行通知。文件抄送19省（区、市）对口援鄂前方指挥部。[财新](http://www.caixin.com/2020-03-23/101532573.html)记者向疾控部门人士确认，该文件属实。<br>
 
 【中国】<br>
 * [香港政府新聞網](https://www.news.gov.hk/chi/2020/03/20200319/20200319_204254_869.html?type=ticker)：香港漁農自然護理署表示，一隻德國狼狗對2019冠狀病毒的反覆測試呈陽性反應，还强调現時沒有證據顯示寵物會傳播2019冠狀病毒病給人類，或因此生病。畜養人應時常保持良好衞生習慣，在任何情況下絕不應棄養寵物。<br>
 * [邢台发布](https://weibo.com/3899427856/IzvN0iVmn?type=comment)：昨日一条关于从美国入境人员感染新冠肺炎的消息在我市传播，经调查3月19日上午我市处置一名从美国返境后乘坐高铁在我市下车的河南许昌人刘某某。当日上午9点40分我市疫情防控领导小组办公室接到市疾控中心报告，北京铁路局防控办通知我市疾控中心，北京西开往福田的G71次列车3车厢有一河南籍乘客刘某某（目的地是河南许昌）核酸检测呈阳性（在沈阳海关对其采样做检测），要求该人在邢台东站下车，并由我市稳控收治。<br>
 * [新京报](http://www.bjnews.com.cn/news/2020/03/19/706045.html)：河南焦作新增1例境外返回无症状感染者，2次检测均为阳性，未认定确诊病例。<br>
+* [新京报](https://weibo.com/1323527941/IzMGti1W4?ref=collection&type=comment)：黑龙江省五大连池市青山胡同疫情防控点，一名老人因扫健康码问题与疫情防控人员发生冲突。现场视频显示，老人称自己的手机无法扫码，随后双方发生肢体冲突，老人面部受伤流血。3月22日，青山街道办回应称此涉事人员不是街道办工作人员，“是各单位驻守的卡口”。<br>
 * [人民日报](https://weibo.com/2803301701/Izxlfsd8J)：20日晚，河北省邢台市发布通告称，19日上午处置一名从美国返境后乘坐高铁在我市下车的河南许昌人刘某某。当日上午市疫情防控领导小组办公室接到市疾控中心报告，北京铁路局防控办通知我市疾控中心，北京西开往福田的G71次列车3车厢有一河南籍乘客刘某某（目的地是河南许昌）核酸检测呈阳性，要求该人在邢台东站下车，并由我市稳控收治。<br>
 
 【国际】<br>
@@ -1552,6 +1554,7 @@
 * [知音汉阳](https://weibo.com/2710754267/Izx07iC2G)：昨日网传玫瑰西园社区告示：116号单元有两例新冠确诊病人，对此单元进行单对封闭，即日起该本栋居民不进不出。现将事件情况说明如下：3月20日，玫瑰西园社区居民邹某因所在116号楼栋施行封控管理，无法应企业要求复工返岗，遂通过楼栋微信群要求社区提供不能出门证明。社区工作人员于是为其出具证明（网传告示），并通过楼栋微信群发给邹某，后在网络传播。<br>
 * [硚口发布](https://weibo.com/2648030085/IzwuqgP8H)：关于网传“同济医院护士被租住地的邻居驱赶”一事，引发网友强烈关注。经现场调查核实，同济医院一护士结束该院中法新城院区重症监护室支援工作，隔离期满后，返回本部院区工作，借住同事租住的硚北社区住房。3月17日中午，硚北社区部分居民出于对小区和自身安全的警惕，联系社区网格员和志愿者上门询问其身份、健康等状况。期间，有居民对该护士不是本辖区居民，也不是小区租户却搬进小区表示不理解，拨打110电话报警。警务站出警后，妥善进行了处置，劝回了居民。该护士在同事陪同下另行居住。事后，我区迅速指出了社区的不妥行为，并安排街道、社区主动与该护士沟通解释，获得其本人谅解。<br>
 * 来自武汉的一位一线医生向[健康时报](https://weibo.com/1411163204/IzuzCuE6K)记者反映，“我在门诊遇到了一家三口新冠肺炎治愈患者全部‘复阳’的病例，且这一家三口中的一位70岁的老人病情较之前反而更加严重了。”复阳也即治愈的患者，出现了病情反复的情况，专家解读：可能存在“假治愈”情况。<br>
+* [三联生活周刊](https://weibo.com/1191965271/IzOQq3wpb?ref=collection&type=comment):麻醉医生董天在湖北枝江抗疫前线，因脑血管意外不幸离世，年仅29岁。董天2014年毕业于皖南医学院，随后在该院麻醉科工作。据悉，他已在抗疫一线工作35天，目前遗体被送回湖北当阳。<br>
 * [财新网 · 特稿·核酸阴性抗体阳性 确诊名单外的武汉医护人员](https://m.caixin.com/m/2020-03-21/101532088.html?cx_referer=http://www.caixin.com/2020-03-21/101532088.html)<br>
 
 【中国】<br>
@@ -1591,8 +1594,13 @@
 
 ## 2020年3月23日
 【武汉-湖北】<br>
+* [财新网](http://www.caixin.com/2020-03-23/101532573.html)：截至3月22日，湖北省已经连续四天新增病例零增长。各省份派出的援鄂医疗队自3月17日开始撤离，截至3月20日已经撤离1.2万人。但另一支援助队伍却没能和医疗队同时离开。这支队伍是来自各地疾控部门的防控人员，离鄂工作暂缓。<br>
+* [湖北日报](https://weibo.com/2827102952/IzXgqpeu3?sudaref=moe.covid-19.wtf&display=0&retcode=6102&type=comment#_rnd1585016627876)：3月1日至22日，襄阳累计接纳境外返襄入襄人员219人，按要求对所有返襄入襄人员进行了核酸检测，除1例核酸检测呈弱阳性反应外，其他人员未发现异常。<br>
 
 【中国】<br>
+* [广东省政府新闻办](https://weibo.com/2803301701/IzX0tq6PI)举行发布会，对于第127届广交会将延后举行的传言，省商务厅副厅长马桦表示，考虑目前全球疫情发展态势，特别是境外疫情输入风险较高，第127届春季广交会确定不会在4月15日如期举办。<br>
+* [江苏省](https://weibo.com/1746067030/IzYD4Fmqy?type=comment#_rnd1585016680229)自3月23日起对所有入境人员采取集中医学观察14天措施（条件不允许的可实施居家医学观察）。<br>
+
 【国际】<br>
 * [Reuters](https://www.reuters.com/article/health-coronavirus-mozambique-idUSL8N2BF0PT)：南非国家莫桑比克确诊首例新冠肺炎病例，该患者最近从英国返回。<br>
 * 美国肯塔基州共和党参议员[Rand Paul](https://twitter.com/RandPaul/status/1241780756617273345?s=19)确诊COVID-19。他是美国首例确诊COVID-19的参议员。<br>
@@ -1601,4 +1609,57 @@
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-syria-idUSKBN21912A)：叙利亚确诊首例新冠肺炎病例为英国输入。<br>
 * [loopjamaica](http://www.loopjamaica.com/content/watch-dominica-records-first-case-coronavirus-3)：东加勒比海岛国多米尼克确诊首例新冠肺炎病例该病例为英国输入。<br>
 * [loopnewsbarbados](http://www.loopnewsbarbados.com/content/grenada-records-first-covid-19-case-4)：东加勒比海岛国格林纳达确诊首例新冠肺炎病例为英国输入。<br>
+* [elmundo](https://www.elmundo.es/madrid/2020/03/22/5e77a859fdddff4b3c8b4638.htmlhttps://www.elmundo.es/madrid/2020/03/22/5e77a859fdddff4b3c8b4638.html)：西班牙在马德里会展中心IFEMA设立临时医院，可容纳5000张病床，用于收置轻症患者。首批已转运100多名患者。<br>
+* [politico](https://www.politico.com/states/new-jersey/story/2020/03/23/up-to-1-000-inmates-in-new-jersey-ordered-released-1268685)：为应对疫情，美国新泽西州将释放约1000名正在服刑人员。<br>
+
+## 2020年3月24日
+【武汉-湖北】<br>
+* [湖北省新型冠状病毒感染肺炎疫情防控指挥部通告](http://www.hubei.gov.cn/zhuanti/2020/gzxxgzbd/zxtb/202003/t20200324_2189256.shtml)：从3月25日零时起，武汉市以外地区解除离鄂通道管控，有序恢复对外交通，离鄂人员凭湖北健康码“绿码”安全有序流动。从4月8日零时起，武汉市解除离汉离鄂通道管控措施，有序恢复对外交通，离汉人员凭湖北健康码“绿码”安全有序流动。<br>
+
+【中国】<br>
+* [人民日报](https://weibo.com/2803301701/IA8oQB6TK?ref=home)记者从天津市疾控中心获悉，3月24日6时至18时，天津无新增报告本地新冠肺炎确诊病例。新增报告3例境外输入确诊病例（均为中国籍），累计报告境外输入确诊病例9例（在院9例，其中重型1例、普通型4例、轻型1例、未分型3例；中国籍8例、法国籍1例）。<br>
+
+【国际】<br>
+* [BBN](https://www.breakingbelizenews.com/2020/03/23/belize-confirms-first-case-of-coronavirus-cuban-doctors-arriving-to-help/)：伯利兹确诊首例新冠肺炎病例此前从美国洛杉矶返回。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYOHGoGVtXSKjhF8572gA200324&fromapp=cctvnews&version=804&version=804&allow_comment=1)：缅甸首次报告确诊2例新冠肺炎病例分别为美国和英国输入。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-olympics/tokyo-2020-games-will-be-postponed-says-ioc-member-dick-pound-idUSKBN21A097)：国际奥委会成员Dick Pound透漏东京2020奥运会可能会推迟一年。此前，[加拿大](https://apnews.com/1de6d0f74a9f0c1cf9a5096fc7c93926)、澳大利亚、英国都发表了不会派遣运动员参会的类似声明。<br>
+* [jpost](https://www.jpost.com/Breaking-News/Laos-records-first-two-coronavirus-cases-Thai-Media-622110)：老挝首次通报2例新冠肺炎确诊病例。<br>
+* [bloomberg](https://www.bloomberg.com/news/articles/2020-03-24/egypt-imposes-nighttime-curfew-to-contain-coronavirus-outbreak)：埃及从周三开始实行为期2周（晚7点至早6点）的宵禁。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisFdzb9LYLJT3swJggYTy200324&fromapp=cctvnews&version=804&version=804&allow_comment=1)：当地时间3月24日，国际奥委会宣布，鉴于新冠肺炎感染患者数量急剧增加，国际奥委会需要在不同的状况下采取措施，在与东京奥组委、日本政府和东京都政府讨论后，完成疫情对奥运会冲击的评估，决定推迟东京奥运会至2021年夏天举行，延期后的奥运会名称仍保留“2020年东京奥运会和残奥会”。<br>
+
+## 2020年3月25日
+【武汉-湖北】<br>
+* [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_6677388)：117条市内公交线路正式恢复运营。<br>
+* 武汉作家方方在封城的第62天发布最后一篇日记[方方日记完结篇：那美好的仗我已经打过了（3月24日）](https://mp.weixin.qq.com/s/cnjyFlzf193M9oZkisZAxw)。<br>
+
+【中国】<br>
+【国际】<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-libya-measures-idUSKBN21B2SF)：利比亚确诊首例新冠肺炎病例一名73岁的男子两周前从突尼斯途经沙特阿拉伯抵达该国。<br>
+* [捷克内政部长声明](https://twitter.com/jhamacek/status/1240023726286163968?s=20)原本确定价格的60多万的口罩，老板最后提高价格，最后根据《紧急危机法》征用，并按照之前谈好的市场价格支付了CTE 公司（大股东系布拉格时报的周灵建）。仓库中捐赠给意大利华侨的口罩已经送往意大利。<br>
+* [哈佛大学](https://twitter.com/Harvard/status/1242494115159343105?s=20)校长Lawrence S.Bacow和其夫人Adele Fleet Bacow新冠检测呈阳性。<br>
+* [BBC](https://www.bbc.com/news/uk-52033845)：英国查尔斯王子新冠检测呈阳性。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-mali-idUSKBN21C1EH)：西非内陆国马里首次报告确诊2例新冠肺炎病例从法国输入。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNYOXFNGuQcGX2TS5zefa200325&fromapp=cctvnews&version=804&version=804&allow_comment=1)： 西非国家几内亚比绍首次报告确诊2例新冠肺炎病例。<br>
+
+## 2020年3月26日
+【武汉-湖北】<br>
+* [财新网 · 武汉开放骨灰领取 汉口殡仪馆逝者亲属排起长队](http://china.caixin.com/2020-03-26/101534558.html)<br>
+
+【中国】<br>
+* [上海发布](https://weibo.com/2539961154/IApnlfkWK)：为进一步做好防控境外疫情输入工作，上海市新冠肺炎疫情防控工作领导小组办公室决定，自3月26日18时起，对入境来沪的全部人员，一律实施为期14天的隔离健康观察（对入境的外交人员和从事重要经贸、科研、技术合作的人员，另有规定的按规定执行）。<br>
+* [民航局](http://www.caac.gov.cn/XXGK/XXGK/TZTG/202003/t20200326_201746.html)发布通知：进一步调减国际客运航班运行数量。国内每家航空公司经营至任一国家航线只保留1条，每条航线每周运营班次不得超1班；外国每家航空公司经营至我国航线只保留1条，每周运营班次不得超1班。抵离中国航班确保客座率不高于75%。<br>
+* [新华社](https://weibo.com/1699432410/IAoc3aqO8)将拍摄首部武汉战“疫”2个月全景纪录片《英雄之城》，称这部感天动地的中国抗“疫”群英谱，由60多位勇闯“红区”的记者“疫”线拍摄。很多年后，当人们回望抗击新冠肺炎疫情这场战“疫”，一定会想起2020年初，武汉关闭离汉通道那个遥远的日子。<br>
+* 中国[外交部](https://www.fmprc.gov.cn/web/wjbxw_673019/t1761858.shtml)决定自2020年3月28日0时起，暂时停止外国人持目前有效来华签证和居留许可入境。持外交、公务、礼遇、C字签证入境不受影响。<br>
+
+【国际】<br>
+* [loopslu](http://www.loopslu.com/content/two-test-positive-coronavirus-st-kitts-nevis-5)：东加勒比海岛国圣基茨和尼维斯首次报告确诊2例新冠肺炎病例均有美国纽约旅行史。<br>
+* [BBC](https://www.bbc.com/news/health-52018477)：英国伦敦会展中心ExCel （Exhibition Centre London）将改作临时战地医院，称作NHS南丁格尔医院，初期设置500张病床，后续视情况进行增减。英国卫生大臣 马修·汉考克(Matt Hancock) 声称已有 11788 名退休医护加入抗疫一线。另外超过 18700 名护士专业学生和5500名医学准毕业生也将加入进来。<br>
+* [俄罗斯驻华大使馆](https://weibo.com/2503806417/IAqaxB99i)：自2020年3月27日凌晨起，暂停往返俄各机场与外国各机场间的定期和包机航班，从送回俄罗斯公民的航班及由俄政府决定执飞的航班除外。<br>
+* [二十国集团](https://g20.org/en/media/Documents/G20_Extraordinary%20G20%20Leaders%E2%80%99%20Summit_Statement_EN%20(1).pdf)领导人应对新冠肺炎特别峰会在北京时间晚间八点召开，当地时间下午正式闭幕，二十国集团将启动总价值5万亿美元的经济计划，以应对疫情对全球社会、经济和金融带来的负面影响，并支持各国中央银行采取措施促进金融稳定和增强全球市场的流动性。<br>
+* [loopslu](http://www.loopslu.com/content/two-test-positive-coronavirus-st-kitts-nevis-5)：圣基茨和尼维斯首次报告确诊2例新冠肺炎病例 均有美国纽约旅行史。<br>
+
+## 2020年3月27日
+【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
 <br><a name="bottom">[回到顶部](#top) </a>
