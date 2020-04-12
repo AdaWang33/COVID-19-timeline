@@ -1,11 +1,11 @@
-wuhan2020-timeline
+COVID-19-timeline
 ====================
-[疫情与舆情：武汉新冠肺炎时间线TIMELINE](https://pratitya.github.io/wuhan2020-timeline/)
+[疫情与舆情：新冠肺炎时间线TIMELINE](https://pratitya.github.io/COVID-19-timeline/)
 ===========================================================
 
 凡例
 ====
-*  时间线梳理以官媒信息为经，以民营媒体、自媒体为纬，以事系日，着力关注疫情扩散与舆论场域，力图呈现武汉新冠肺炎始末。（[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)项目自1月28日每天发布关于海外疫情的详尽信息，与本项目互补。）
+*  时间线梳理以官媒信息为经，以民营媒体、自媒体为纬，以事系日，着力关注疫情扩散与舆论场域，力图呈现新冠肺炎始末。（[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)项目自1月28日每天发布关于海外疫情的详尽信息，与本项目互补。）
 *  目前由本人带领团队以 __社会学年鉴模式__ 统编撰写。但时间精力有限，尽可能补齐前期各方面信息并跟进实时新闻动态，时间线内容或有一天延期。
 *  Github平台公开透明，参与过编写的朋友都能查看时间及内容记录，希望引用搬运本项目时 __注明出处__ 。
 *  信息或实或伪，一一注明出处。为避免微信公众号文章被销毁、抑或微博内容404、自媒体发布内容自行删除，又鉴于墙内运作的条件限制， __部分__ 敏感内容暂时备份至Issues。（issues标题可带上标识，微信文章用article，学术论文用paper，微博截图用weibo，时间线上直接跳转至Issues。备份的方式首选网页打印成pdf，上传至issues，或截图。豆友制作的2019-nCoV网络档案库[Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)存有一线媒体报道文章副本亦可直接查考，[2019-nCoV疫情实时播报](https://2019ncov.tk/)亦可参考。官方媒体的信息一般不会删除，故时间线上直接跳转至官媒的链接。采用信息分类索引参见附录。）
@@ -46,33 +46,20 @@ pr一定要注意严格按照上述体例编写，以免timeline条目格式混�
 timeline更新频率较高，pr前请同步一下fork，避免造成大量冲突！
 ---------------------
 
-招募令
+项目进度
 ======
-＜研究组>绍介<br>
 本分组现隶属于猫托邦老师组建的疫情期间信息搜集团队。根据其他分组提供信息源整合（存notion和mega云盘的资料库），以及现有的信息渠道（详见附录）依托GitHub平台进行 __体例规范__ 的新冠肺炎疫情与舆情时间线编写。<br>
 
-一、要求：基本 __会使用GitHub__ 平台进行编辑修改提交，可以有一定医学、新闻学、史学、社会学等相关背景，较强的文献读写能力。<br>
-
-二、当前任务：<br>
+当前任务：<br>
 - 修改完善1月20日之前的疫情时间线，欢迎大家提供文献线索。
 - 补充备份信息源不明的条目的原始出处链接。
 - 跟进实时的疫情，系时分地域分类编写。
 
-三、人数：25人（大致依据信息源的分类编写，根据实际需要加人）<br>
-
- 项目 |  当前工作内容 | 需要人数 | 目前人数
- ---- | --------- | ------  | -----
- 官媒及政府文件（国内外）摘编转述  | 目前需要实时跟进补充香港方面的信息，以及国际社会自19年12月底以来对疫情的反应。 | / | /  
- 民间媒体摘编转述  | 依托其他平台（见附录）提供的资料做每人选编。 | / | / 
- 民间自营组织公告  | 跟进民营组织相关新闻进行摘录，如慈善机构事件等。 | / | / 
- 市井百态  | 选录民间自媒体代表性叙述（如up主、大V）、个体生命史，社会流言（如双黄连事件、武汉病毒所所长事件）。 | / | /
- 医学问题及学术动态| 将1月29日以前医学论文成果汇入，转述其提供了哪些信息；此外实时跟进医学界动态，文献可参考[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)。 | / | /
+感兴趣的人欢迎issues联系或直接指正，亦欢迎提出优化建议！
+--------
 
 > “记录历史，守护记忆。”<br>
 > I've constructed a timeline, minute by minute, second by second in some places. Every decision, every button push, every turn of a switch. (Chernobyl, 2019)<br>
-
-感兴趣的人欢迎issues联系或直接指正，亦欢迎提出优化建议！
---------
 
 ## 附录：采录内容
 ### 一、官方
@@ -97,7 +84,7 @@ timeline更新频率较高，pr前请同步一下fork，避免造成大量冲突
 ##### 2.湖北省
 * [湖北省人民政府门户网站](http://www.hubei.gov.cn/)<br>
 * [《湖北日报》微博](https://weibo.com/hubeiribao?profile_ftype=1&is_all=1#_0)<br>
-* [湖北省卫生健康委员会官网](http://wjw.hubei.gov.cn/)<br>
+* [湖北省卫生健康委员会](http://wjw.hubei.gov.cn/)<br>
 * [黄冈卫健委官网](http://wjw.hg.gov.cn/)
 
 ##### 3.中央
@@ -106,9 +93,25 @@ timeline更新频率较高，pr前请同步一下fork，避免造成大量冲突
 * [中国疾病预防控制中心官网](http://www.chinacdc.cn/)<br>
 * [中国疾病预防控制中心：新型冠状病毒感染的肺炎疫情分布平台](http://2019ncov.chinacdc.cn/2019-nCoV/)<br>
 
-##### 4. 港澳台
+##### 4. 地方（含港澳台）
+* [北京市卫生健康委员会](http://wjw.beijing.gov.cn/)<br>
+* [上海市卫生健康委员会](http://wsjkw.sh.gov.cn/)<br>
 * [香港特别行政区卫生署卫生防护中心](https://www.chp.gov.hk/tc/features/102465.html)<br>
 * [香港特别行政区政府新闻公报-嚴重新型傳染性病原體呼吸系統病](https://www.chp.gov.hk/tc/miniweb/press_release/100063.html)<br>
+* [澳門特別行政區政府-新型冠狀病毒感染應變協調中心](https://www.ssm.gov.mo/apps1/PreventCOVID-19/ch.aspx#clg17458)<br>
+* [台湾卫生福利部](https://www.mohw.gov.tw/mp-1.html)<br>
+* [广东省卫生健康委员会](http://wsjkw.gd.gov.cn/)<br>
+* [浙江省卫生健康委员会](http://www.zjwjw.gov.cn/)<br>
+* [黑龙江省卫生健康委员会](http://wsjkw.hlj.gov.cn/)<br>
+* [江苏省卫生健康委员会](http://wjw.jiangsu.gov.cn/)<br>
+* [山东省卫生健康委员会](http://wsjkw.shandong.gov.cn/)<br>
+* [四川省卫生健康委员会](http://wsjkw.sc.gov.cn/)<br>
+* [河南省卫生健康委员会](http://www.hnwsjsw.gov.cn/)<br>
+* [湖南省卫生健康委员会](http://wjw.hunan.gov.cn/)<br>
+* [安徽省卫生健康委员会](http://wjw.ah.gov.cn/)<br>
+* [江西省卫生健康委员会](http://hc.jiangxi.gov.cn/)<br>
+* [重庆市卫生健康委员会](http://wsjkw.cq.gov.cn/)<br>
+
 #### （三）医院报告
 * 华山感染 （微信公众号）
 
@@ -156,7 +159,8 @@ timeline更新频率较高，pr前请同步一下fork，避免造成大量冲突
 * Github项目[2020nCov_individual_archives](https://github.com/jiayiliujiayi/2020nCov_individual_archives)：备份普通人在疫情期间的记录<br>
 * Github项目[疫情之下的劳动者--中文媒体报道收集](https://github.com/workshopwangdirector/Labor-in-2019-nCov)<br>
 
-#### （二）自媒体（VLOG、疫情分析）
-* [知识分子 · 吃一堑能长一智吗？国际著名公卫专家评武汉疫情](https://mp.weixin.qq.com/s/X1s65Ldo7TxUmsQZHB_Zmg)
+#### （二）自媒体的疫情记录与分析
+* [知识分子 · 吃一堑能长一智吗？国际著名公卫专家评武汉疫情](https://mp.weixin.qq.com/s/X1s65Ldo7TxUmsQZHB_Zmg)<br>
 * [纽约华人资讯网 · 武汉肺炎罗生门：谁说了真话？谁又在撒谎？](https://github.com/Pratitya/wuhan2020-timeline/issues/40#issue-558506815)<br>
 * [南都传媒·记疫](http://h5.oeeee.com/h5/v20/nCovTimeline/?from=groupmessage&isappinstalled=0&dt_platform=wechat_friends&dt_dapp=1)<br>
+* [史地刊讯 · 武汉新冠之疫史事日志（初稿）1](http://mp.weixin.qq.com/s?__biz=MzUzNzk4MDUyNw==&mid=2247487089&idx=1&sn=e5f748d642cfe8ad3c98a077bb76fab7&chksm=fadff571cda87c67b84706dfd287acee37862341ec00f4c200fa33918dc014d0282ee67bf46a&mpshare=1&scene=1&srcid=0409NhRKTgVFHRgtd5fYYJdP&sharer_sharetime=1586436829278&sharer_shareid=f266a070c079550e6b90acd80c8f2b66#rd)<br>
